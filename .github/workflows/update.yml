@@ -8,8 +8,12 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Get Stats
         run: |
@@ -17,13 +21,11 @@ jobs:
           import urllib.request
           import json
 
-          # Get user stats
           user_url = "https://api.github.com/users/y4sol"
           with urllib.request.urlopen(user_url) as resp:
               user = json.loads(resp.read())
               repos = user.get('public_repos', 0)
               
-              # Get all repos and count stars
               stars = 0
               repos_url = "https://api.github.com/users/y4sol/repos?per_page=100"
               with urllib.request.urlopen(repos_url) as r:
@@ -79,4 +81,4 @@ jobs:
       - name: Commit
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update profile stats"
+          commit_message: "Update stats"
