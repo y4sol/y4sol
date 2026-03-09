@@ -1,49 +1,66 @@
 # y4sol
 
-**AI Agent Developer** · **Security Enthusiast**
+<h3 align="center">
+  <b>AI Agent Developer</b> &nbsp;|&nbsp; <b>Security Enthusiast</b>
+</h3>
 
 ---
 
-### 👨‍💻 What I'm Working On
-
-- 🤖 OpenClaw AI Agent
-- 🧠 Memory Systems
-- 🔍 Security Tools
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=y4sol&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/y4sol?style=for-the-badge&color=blue" />
+</p>
 
 ---
 
-### 📊 Stats
+### 🔭 Working On
 
-<a href="https://github.com/y4sol">
-  <img src="https://komarev.com/ghpvc/?username=y4sol&style=flat-square&color=blue" alt="profile views"/>
-</a>
+```
+🤖  OpenClaw AI Agent
+🧠  Memory Systems  
+🔍  Security Tools
+```
 
-<a href="https://github.com/y4sol?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-4-blue?style=flat-square" alt="repos"/>
-</a>
+---
 
-<a href="https://github.com/y4sol">
-  <img src="https://img.shields.io/badge/Stars-0-yellow?style=flat-square" alt="stars"/>
-</a>
+### 📊 Activity
+
+<p align="center">
+  <a href="https://github.com/y4sol">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=y4sol&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/y4sol">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=y4sol&theme=radical" />
+  </a>
+</p>
 
 ---
 
 ### 🛠 Tech Stack
 
-<a href="https://github.com/y4sol">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" alt="python"/>
-</a>
-
-<a href="https://github.com/y4sol">
-  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash" alt="shell"/>
-</a>
-
----
-
-### 📫 Find Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/y4sol)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-*Thanks for visiting!* 🌟
+### 📫 Connect
+
+<p align="center">
+  <a href="https://github.com/y4sol">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>Thanks for visiting! ⭐</em>
+</p>
