@@ -1,34 +1,27 @@
 # y4sol
 
-### AI Agent Developer & Security Enthusiast
+**AI Agent Developer** · **Security Enthusiast**
 
 ---
 
-**Building** intelligent agents and security tools
+### 👨‍💻 What I'm Working On
 
-**Learning** LLMs, Agentic AI, Red Teaming
+- 🤖 OpenClaw AI Agent
+- 🧠 Memory Systems
+- 🔍 Security Tools
 
-**Using** Python · JavaScript · Shell
-
----
+### 🛠 Tech Stack
 
 ```
-┌────────────────────────────────────────────┐
-│  🧠 AI Agents     │  🔒 Security         │
-│  ⚡ Automation     │  🛠️ Dev Tools       │
-└────────────────────────────────────────────┘
+  Python  ████████░░░░░░░░░░░░  70%
+  JavaScript  ███░░░░░░░░░░░░░░  15%
+  Shell  ██░░░░░░░░░░░░░░░░░░  15%
 ```
 
----
+### 📫 Find Me
 
-### Projects
-
-[openclaw-memory](https://github.com/y4sol/openclaw-memory) — Memory system for AI agents
-
-[fofa-skill](https://github.com/y4sol/fofa-skill) — FOFA network asset CLI
-
-[js-analyzer](https://github.com/y4sol/js-analyzer) — JS sensitive info extraction
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/y4sol)
 
 ---
 
-*Thanks for visiting!*
+*Thanks for visiting!* 🌟
