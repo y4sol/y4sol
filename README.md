@@ -1,49 +1,62 @@
-# 👋 Hi, I'm y4sol
+# Hi, I'm y4sol
 
-**AI Agent Developer** | **Security Enthusiast** | **Automation Expert**
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  👋 AI Agent Developer                                          ║
+║  🔐 Security Enthusiast                                        ║
+║  ⚡ Automation Expert                                           ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
----
-
-## 🎯 About Me
+## 🧑‍💻 About
 
 Building the future of AI Agents, one commit at a time.
 
-- 🔭 Working on **OpenClaw AI Agent** & developer tools
-- 🌱 Learning LLMs, Agentic AI, Red Team Ops
-- 💬 Ask me about Python, Security, AI Agents
+**Currently working on:**
+- OpenClaw AI Agent
+- Memory Management Systems
+- Security Tools
 
-## 🛠 Tech Stack
-
-| Python | JavaScript | Shell |
-|:------:|:----------:|:-----:|
-| 🐍 | 📜 | 🖥️ |
-
-**Tools:** Linux • Git • Docker
-
-## 📊 GitHub Stats
-
-<!-- prettier-ignore -->
-<p align="center">
-  <a href="https://github.com/y4sol">
-    <img height="180" src="https://gh-readme-stats.vercel.app/api?username=y4sol&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/y4sol">
-    <img height="180" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=y4sol&layout=donut&theme=radical&hide_border=true" />
-  </a>
-</p>
-
-## 🏆 Featured Projects
-
-| Project | Description | Stars |
-|---------|-------------|:-----:|
-| [openclaw-memory](https://github.com/y4sol/openclaw-memory) | Memory system for AI agents | ⭐ |
-| [fofa-skill](https://github.com/y4sol/fofa-skill) | FOFA network asset CLI | ⭐ |
-| [js-analyzer](https://github.com/y4sol/js-analyzer) | JS sensitive info extraction | ⭐ |
-
-## 📫 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github)](https://github.com/y4sol)
+**Learning:**
+- LLMs & Agentic AI
+- Red Team Operations
 
 ---
 
-⭐ Star my repos if you find them useful!
+## 🛠 Tech Stack
+
+```
+Languages:    Python 🐍  •  JavaScript 📜  •  Shell 🖥️
+Platforms:   Linux  •  Git  •  Docker
+Focus:       AI Agents  •  Security  •  Automation
+```
+
+---
+
+## 📈 Activity
+
+```
+📦 Repositories:   4
+🔧 Contributions: Growing
+⭐ Focus:          AI & Security
+```
+
+---
+
+## 🏆 Projects
+
+| Repo | Description |
+|------|-------------|
+| [openclaw-memory](https://github.com/y4sol/openclaw-memory) | Memory system for AI agents |
+| [fofa-skill](https://github.com/y4sol/fofa-skill) | FOFA network asset CLI |
+| [js-analyzer](https://github.com/y4sol/js-analyzer) | JS sensitive info extraction |
+
+---
+
+## �_contact
+
+GitHub: [@y4sol](https://github.com/y4sol)
+
+---
+
+*Thanks for visiting! ⭐*
