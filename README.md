@@ -2,9 +2,9 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  👋 AI Agent Developer                                          ║
-║  🔐 Security Enthusiast                                        ║
-║  ⚡ Automation Expert                                           ║
+║  👋 AI Agent Developer                                         ║
+║  🔐 Security Enthusiast                                       ║
+║  ⚡ Automation Expert                                          ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -12,14 +12,8 @@
 
 Building the future of AI Agents, one commit at a time.
 
-**Currently working on:**
-- OpenClaw AI Agent
-- Memory Management Systems
-- Security Tools
-
-**Learning:**
-- LLMs & Agentic AI
-- Red Team Operations
+- 🔭 Working on OpenClaw AI Agent & developer tools
+- 🌱 Learning LLMs, Agentic AI, Red Team Ops
 
 ---
 
@@ -27,13 +21,21 @@ Building the future of AI Agents, one commit at a time.
 
 ```
 Languages:    Python 🐍  •  JavaScript 📜  •  Shell 🖥️
-Platforms:   Linux  •  Git  •  Docker
-Focus:       AI Agents  •  Security  •  Automation
+Platforms:    Linux  •  Git  •  Docker
+Focus:        AI Agents  •  Security  •  Automation
 ```
 
 ---
 
-## 🏆 Projects
+## 📊 GitHub
+
+- 📂 Check out my **[repos](https://github.com/y4sol?tab=repositories)**
+- 📈 My **[contribution graph](https://github.com/y4sol)** (auto-updates)
+- ⭐ Pinned repos show automatically on profile
+
+---
+
+## 🏆 Featured Projects
 
 | Repo | Description |
 |------|-------------|
