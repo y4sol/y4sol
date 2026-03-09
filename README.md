@@ -12,13 +12,13 @@
 
 ### 📊 Stats
 
-- 📂 **placeholder_repos** Repositories
-- ⭐ **placeholder_stars** Stars
+- 📂 **4** Repositories
+- ⭐ **0** Stars
 
 ### 🛠 Tech Stack
 
 ```
-  placeholder_lang
+  Python: 98%  Shell: 1%
 ```
 
 ### 📫 Find Me
