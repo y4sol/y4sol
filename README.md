@@ -10,17 +10,11 @@
 - 🧠 Memory Systems
 - 🔍 Security Tools
 
-### 📊 Stats
-
-| Metric | Value |
-|--------|-------|
-| 📂 Repos | ![Repos](https://badges.pufler.dev/visitors/y4sol?label=repos&labelColor=blue&color=blue) |
-| ⭐ Stars | ![Stars](https://badges.pufler.dev/visitors/y4sol?label=stars&labelColor=yellow&color=yellow) |
-| 🛠️ Tech | Python · Shell |
-
 ### 🛠 Tech Stack
 
-![Top Langs](https://badges.pufler.dev/languages/top/y4sol?label=Python)
+```
+  Python  ·  JavaScript  ·  Shell
+```
 
 ### 📫 Find Me
 
