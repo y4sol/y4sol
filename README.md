@@ -10,15 +10,10 @@
 - 🧠 Memory Systems
 - 🔍 Security Tools
 
-### 📊 Stats
-
-- 📂 **4** Repositories
-- ⭐ **0** Stars
-
 ### 🛠 Tech Stack
 
 ```
-  Python: 100%
+  Python  ·  JavaScript  ·  Shell
 ```
 
 ### 📫 Find Me
