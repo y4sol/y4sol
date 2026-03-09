@@ -33,13 +33,8 @@ Building the future of AI Agents, one commit at a time.
 
 ## 📊 GitHub Stats
 
-```
-y4sol's GitHub Stats:
-
-📦 Repositories: 4
-⭐ Stars: Growing
-🔧 Contributions: Active
-```
+<img src="https://gh-readme-stats.vercel.app/api?username=y4sol&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats" />
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=y4sol&layout=compact&theme=radical&hide_border=true" height="180" alt="languages" />
 
 ## 🏆 Featured Projects
 
