@@ -12,26 +12,21 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN
 
       - name: Get Stats
         run: |
           python3 << 'PYEOF'
           import urllib.request
           import json
-
           user_url = "https://api.github.com/users/y4sol"
           with urllib.request.urlopen(user_url) as resp:
               user = json.loads(resp.read())
               repos = user.get('public_repos', 0)
-              
               stars = 0
               repos_url = "https://api.github.com/users/y4sol/repos?per_page=100"
               with urllib.request.urlopen(repos_url) as r:
                   for repo in json.loads(r.read()):
                       stars += repo.get('stargazers_count', 0)
-              
               print(f"repos={repos}")
               print(f"stars={stars}")
           PYEOF
@@ -42,10 +37,8 @@ jobs:
           python3 << 'PYEOF'
           import urllib.request
           import json
-          
           repos = ['openclaw-memory', 'fofa-skill', 'js-analyzer']
           all_langs = {}
-          
           for repo in repos:
               url = f"https://api.github.com/repos/y4sol/{repo}/languages"
               try:
@@ -55,7 +48,6 @@ jobs:
                           all_langs[lang] = all_langs.get(lang, 0) + bytes
               except:
                   pass
-          
           total = sum(all_langs.values())
           if total > 0:
               langs = []
@@ -73,7 +65,6 @@ jobs:
           REPOS=$(grep "^repos=" stats.txt | cut -d= -f2)
           STARS=$(grep "^stars=" stats.txt | cut -d= -f2)
           LANGS=$(cat langs.txt)
-          
           sed -i "s/placeholder_repos/$REPOS/" README.md
           sed -i "s/placeholder_stars/$STARS/" README.md
           sed -i "s/placeholder_lang/$LANGS/" README.md
