@@ -1,0 +1,30 @@
+name: Update Profile Stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'  # 每天午夜更新
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get GitHub Stats
+        id: stats
+        run: |
+          REPO=$(curl -s https://api.github.com/users/y4sol | grep -o '"public_repos": *[0-9]*' | grep -o '[0-9]*')
+          echo "repos=$REPO" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          DATE=$(date +%Y-%m-%d)
+          sed -i "s/📦 Repositories: [0-9]*/📦 Repositories: ${{ steps.stats.outputs.repos }}/" README.md
+          sed -i "s/Last updated: [0-9-]*//" README.md
+          sed -i "s/## 📊 Stats/## 📊 Stats\n*Last updated: $DATE*/" README.md
+
+      - name: Commit and Push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update stats"

@@ -27,15 +27,15 @@ Focus:        AI Agents  •  Security  •  Automation
 
 ---
 
-## 📊 GitHub
+## 📊 Stats
 
-- 📂 Check out my **[repos](https://github.com/y4sol?tab=repositories)**
-- 📈 My **[contribution graph](https://github.com/y4sol)** (auto-updates)
-- ⭐ Pinned repos show automatically on profile
+📦 Repositories: 4
+
+*Auto-updated daily*
 
 ---
 
-## 🏆 Featured Projects
+## 🏆 Projects
 
 | Repo | Description |
 |------|-------------|
