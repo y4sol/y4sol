@@ -1,0 +1,34 @@
+name: Update Tech Stack
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 1 * *'  # 每月1号自动更新
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get Language Stats
+        id: lang
+        run: |
+          LANG=$(curl -s "https://api.github.com/repos/y4sol/openclaw-memory/languages" | python3 -c "
+import sys,json
+d=json.load(sys.stdin)
+total=sum(d.values())
+for k,v in d.items():
+    pct=int(v/total*100)
+    print(f'{k}: {pct}%')
+" 2>/dev/null | head -3 | tr '\n' ' ')
+          echo "langs=$LANG" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          sed -i "s/placeholder_lang/${{ steps.lang.outputs.langs }}/" README.md
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update tech stack"

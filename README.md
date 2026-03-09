@@ -13,9 +13,7 @@
 ### 🛠 Tech Stack
 
 ```
-  Python  ████████░░░░░░░░░░░░  70%
-  JavaScript  ███░░░░░░░░░░░░░░  15%
-  Shell  ██░░░░░░░░░░░░░░░░░░  15%
+  placeholder_lang
 ```
 
 ### 📫 Find Me
