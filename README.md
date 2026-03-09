@@ -22,9 +22,14 @@ Building the future of AI Agents, one commit at a time.
 
 ## 📊 GitHub Stats
 
+<!-- prettier-ignore -->
 <p align="center">
-  <img src="https://gh-readme-stats.vercel.app/api?username=y4sol&show_icons=true&theme=onedark&hide_border=true&count_private=true" width="420"/>
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=y4sol&layout=donut&theme=onedark&hide_border=true" width="420"/>
+  <a href="https://github.com/y4sol">
+    <img height="180" src="https://gh-readme-stats.vercel.app/api?username=y4sol&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/y4sol">
+    <img height="180" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=y4sol&layout=donut&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 ## 🏆 Featured Projects
