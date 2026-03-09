@@ -12,14 +12,15 @@
 
 ### 📊 Stats
 
-- 📂 **4** Repositories
-- ⭐ **0** Stars
+| Metric | Value |
+|--------|-------|
+| 📂 Repos | ![Repos](https://badges.pufler.dev/visitors/y4sol?label=repos&labelColor=blue&color=blue) |
+| ⭐ Stars | ![Stars](https://badges.pufler.dev/visitors/y4sol?label=stars&labelColor=yellow&color=yellow) |
+| 🛠️ Tech | Python · Shell |
 
 ### 🛠 Tech Stack
 
-```
-  Python: 98%  Shell: 1%
-```
+![Top Langs](https://badges.pufler.dev/languages/top/y4sol?label=Python)
 
 ### 📫 Find Me
 
