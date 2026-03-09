@@ -58,4 +58,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add README.md
           git commit -m "Update stats" || true
-          git push
+          git push --force
