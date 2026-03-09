@@ -10,10 +10,15 @@
 - 🧠 Memory Systems
 - 🔍 Security Tools
 
+### 📊 Stats
+
+- 📂 **placeholder_repos** Repositories
+- ⭐ **placeholder_stars** Stars
+
 ### 🛠 Tech Stack
 
 ```
-  Python  ·  JavaScript  ·  Shell
+  placeholder_lang
 ```
 
 ### 📫 Find Me
